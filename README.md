@@ -26,7 +26,7 @@ ProPlayer 是**绿色免安装软件 (Portable)**，下载解压即可使用。
 
 1.  点击页面右侧的 **Releases (发行版)**。
 2.  找到最新的版本（例如最新一版是 `v4.0-r`）。
-3.  在 "Assets" 区域，下载压缩包文件（通常命名为 `ProPlayer_vX.X.zip`）。
+3.  在 "Assets" 区域，下载压缩包文件（例如命名为 `v4.0-r.zip`）。
 
 > **注意：** 请勿只下载源代码 (Source code)，除非您是开发者。
 
@@ -76,7 +76,7 @@ ProPlayer is **Portable**, meaning no installation wizard is required. Just unzi
 
 1.  Click on **Releases** on the right side of this page.
 2.  Find the latest version tag (e.g. lastest release, `v4.0-r`).
-3.  Under "Assets", download the zip file (usually named `ProPlayer_vX.X.zip`).
+3.  Under "Assets", download the zip file (usually named `v4.0-r.zip`).
 
 > **Note:** Do not download the "Source code" unless you are a developer.
 
