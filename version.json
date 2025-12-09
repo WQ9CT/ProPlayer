@@ -1,8 +1,11 @@
 {
-    "version": "v4.3-r",
-    "download_url": "https://github.com/WQ9CT/ProPlayer/releases/download/R/Core.exe",
-    "changelog": "- Fixed only one app at a time and bugs"
-
+    "core_version": "v4.3-r",
+    "core_url": "https://github.com/WQ9CT/ProPlayer/releases/download/R/Core.exe",
+    
+    "launcher_version": "1.0.0",
+    "launcher_url": "https://github.com/WQ9CT/ProPlayer/releases/download/v1.0.0/ProPlayer.exe",
+    
+    "changelog": "Initial Release"
 }
 
 
